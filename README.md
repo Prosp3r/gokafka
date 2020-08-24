@@ -6,4 +6,8 @@
 * Setup Kafka in Kubernetes Kluster.
 * Build and deploy three related potentially high activity Go services on the cluster.
 
-* Time 48 Hours
+* Total Time: 48 Hours
+* 3 Hours to build first TCP example
+* 6 Hourse rest
+* 5 Hours to setup Kafka in Kubernetes cluster.
+* 34 Hours to build Related services.
