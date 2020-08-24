@@ -1,6 +1,6 @@
 # A sample TCP messaging system to demonstrate Go working with Apapche Kafka
 
-** Goal: Gain thorough theoritical and practical understanding of Apache Kafka
+** Goal: Gain thorough theoritical and practical understanding of Apache Kafka**
 
 * Complete the first TCP Messaging example using Kafka docker
 * Setup Kafka in Kubernetes Kluster.
