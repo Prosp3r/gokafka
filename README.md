@@ -13,18 +13,18 @@
 * 34 Hours to build Related services.
 ----
 
-----
+
 **Setup kafka local Kafka cluster**
 * To start the cluster run:
 
--- `git clone https://github.com/wurstmeister/kafka-docker`
+  -- `git clone https://github.com/wurstmeister/kafka-docker`
 
--- `docker-compose up -d`
+  -- `docker-compose up -d`
 
 * To scale to more brokers run:
 
--- `docker-compose scale kafka=3`
+  -- `docker-compose scale kafka=3`
 
 * To stop the cluster run:
 
--- `docker-compose stop`
+  -- `docker-compose stop`
